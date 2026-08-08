@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Face Recognition Studio",
+  "description": "Python computer vision engineering suite for real-time face recognition with live webcam browser simulator, threshold tuning, and script export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
